@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">AdditionalLabsheet</string>
+    <string name="app_name">Notification App</string>
+    <string name="Start">Start</string>
+    <string name="Stop">Stop</string>
 </resources>
